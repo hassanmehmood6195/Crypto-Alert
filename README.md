@@ -1,11 +1,12 @@
-# Crypto-Alert - Learn Electron in Less than 60 Minutes - Free Beginner's Course
+# Crypto-Alert
 
-Well If you are here than I would like to welcome you. 
+First of All, I would like to thank you for taking the time to read this repo.
 
-So when I started looking out tutorials for the Electron Js, almost all tutorials were old(i.e 2017) and based on outdated ElectronJs versions.
-When I started implementing [DesignCourse](https://www.youtube.com/watch?v=2RxHQoiDctI&t=1859s) tutorial and it didn't work because of the old versions.
+So when I started looking out tutorials for the Electron Js, almost all tutorials were old(i.e 2017 would you believe that?) based on outdated ElectronJs versions.
 
-Finally after scratching my head and looking out documentations and ofcourse StackOverflow, I made it work with the latest ElectronJs(13).
+When I started implementing [DesignCourse's Learn Electron in Less than 60 Minutes](https://www.youtube.com/watch?v=2RxHQoiDctI&t=1859s) tutorial lot of things didn't worked because of version differences.
+
+Finally after scratching my head and looking out documentations and ofcourse StackOverflow, I made it working with the latest Electron Js version i.e 13.
 
 You don't believe me? Check the screenshot.
 
