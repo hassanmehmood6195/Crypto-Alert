@@ -1,8 +1,8 @@
 {
-  "name": "my-new-app",
-  "productName": "my-new-app",
+  "name": "crypto-alert-app",
+  "productName": "crypto-alert-app",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "My crypto alert application in electron js version 13",
   "main": "src/main.js",
   "scripts": {
     "start": "electron-forge start",
