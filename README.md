@@ -1,5 +1,4 @@
-# Crypto-Alert
-Learn Electron in Less than 60 Minutes - Free Beginner's Course
+# Crypto-Alert - Learn Electron in Less than 60 Minutes - Free Beginner's Course
 
 Well If you are here than I would like to welcome you. 
 
